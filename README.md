@@ -1,6 +1,6 @@
 # TaskLANE - Kanban Board App
 
-- This project is live and hosted on [https://github.com/sahilyadav902/tasklane](https://github.com/sahilyadav902/tasklane).
+- This project is live and hosted on [https://tasklane.netlify.app/](https://tasklane.netlify.app/).
 - Built by:
   - Name: Sahil Kumar Yadav
   - Email: sahilyadav902@gmail.com

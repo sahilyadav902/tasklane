@@ -1,0 +1,51 @@
+/* User Icon CSS Properties*/
+.dot-card {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: -14px;
+  position: relative;
+  top: 14px;
+}
+
+/* Cards Component CSS Properties*/
+.card {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+  padding: 8px 20px;
+  margin-bottom: 20px;
+  font-size: 14px;
+  transition: background-color 0.3s, transform 0.2s;
+  height: 160px;
+}
+
+.card:hover {
+  cursor: pointer;
+  background-color: #fffbeb;
+  transform: scale(1.02);
+}
+
+.card-start,
+.card-end {
+  color: #888;
+}
+
+.card-title {
+  gap: 16px;
+}
+
+.card-end {
+  gap: 16px;
+}
+
+.card-end div {
+  gap: 5px;
+}
+
+.feature-highlight {
+  padding: 4px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
